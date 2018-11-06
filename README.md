@@ -19,3 +19,15 @@ Repo with programs for the Machine Learning Lab (15CSL76). All the programs are 
 ---
 
 #### Be Advised, I am not the owner of the code posted here. This repo consists of programs/code combined/modified from various sources like Lab Manuals, Youtube etc. 😇
+
+## Contributing to the Repo (if its your first time)
+You can look [here](https://gitme.js.org) for some inspiration on how to submit a Pull Request (PR)
+<br>
+
+__*Basic Steps are*__ :
+- Fork the repo
+- Download/Clone the forked repo into your local machine
+- Modify/Add Contents
+- Push to your repo
+- Submit PR from your fork
+#### And you are good to go! 🎉
