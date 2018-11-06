@@ -2,6 +2,7 @@
 Repo with programs for the Machine Learning Lab (15CSL76). All the programs are in `.ipnyb` Jupyter notebook format.
 
 ## Instructions
+- If you open this repo your phone, make sure to switch to a Desktop Version of the site to see the notebooks in your browser
 - Firstly, Make sure you have [Git](https://git-scm.com) set up and running in your system.
 - Download this repo or clone by typing <br>
   `git clone https://github.com/rumaan/machine-learning-lab-vtu.git`
