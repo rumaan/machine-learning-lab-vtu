@@ -9,12 +9,18 @@ Repo with programs for the Machine Learning Lab (15CSL76). All the programs are 
 - `cd machine-learning-lab-vtu` or move into that directory and run `jupyter notebook` which will open up a Jupyter Notbook instance in your browser.
 - Select the notebook/program and start executing! 👨‍💻👩‍💻
 
-## Dependencies
-- [Git](https://git-scm.com)
-- [Python](https://www.python.org) (Obviously!)
+## Dependencies and Modules used
+- [Python](https://www.python.org)
 - [Jupyter](http://jupyter.org)
 - [Numpy](http://www.numpy.org)
+- [Pandas](https://pandas.pydata.org)
 - [Sklearn](http://scikit-learn.org/stable/)
+- [Matplotlib](https://www.matplotlib.org)
+- [SciPy](https://www.scipy.org)
+- [Bayespy](http://www.bayespy.org)
+
+You can install these dependencies by doing `pip install dependecy_name` and also make sure to replace `pip` with `pip3` if you are using Python3 or above.
+<br>
 
 ---
 
