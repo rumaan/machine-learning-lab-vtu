@@ -31,7 +31,7 @@ You can install these dependencies by doing `pip install dependecy_name` and als
 - [/py/trimmed/](https://github.com/rumaan/machine-learning-lab-vtu/tree/master/py/trimmed) directory contains all the programs in `.py` format
 - Check out the `convert_to_py.sh` script to know more about converting the `.ipnyb` files into `.py`
 ```sh
-chmod 755 convert_to_py
+chmod 755 convert_to_py.sh
 bash convert_to_py.sh
 ```
 
