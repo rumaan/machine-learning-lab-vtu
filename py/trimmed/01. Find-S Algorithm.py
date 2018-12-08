@@ -1,5 +1,4 @@
 # coding: utf-8
-import random
 import csv
 print("\n The most general hypothesis :['?','?','?','?','?','?']\n")
 print("\n The most specific hypothesis :['0','0','0','0','0','0']\n")

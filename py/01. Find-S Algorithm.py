@@ -4,7 +4,6 @@
 # In[ ]:
 
 
-import random
 import csv
 
 
