@@ -39,11 +39,5 @@ bash convert_to_py.sh
 ## Contributing to the Repo (if its your first time)
 You can look [here](https://gitme.js.org) for some inspiration on how to submit a Pull Request (PR)
 <br>
-
-__*Basic Steps are*__ :
-- Fork the repo
-- Download/Clone the forked repo into your local machine
-- Modify/Add Contents
-- Push to your repo
-- Submit PR from your fork
+Fore more info, check out the [Contributing Guide]().
 #### And you are good to go! 🎉
