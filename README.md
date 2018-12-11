@@ -19,6 +19,7 @@ Repo with programs for the Machine Learning Lab (15CSL76). All the programs are 
 - [Matplotlib](https://www.matplotlib.org)
 - [SciPy](https://www.scipy.org)
 - [Bayespy](http://www.bayespy.org)
+- [pgmpy](https://github.com/pgmpy/pgmpy)
 
 You can install these dependencies by doing `pip install dependecy_name` and also make sure to replace `pip` with `pip3` if you are using Python3 or above.
 <br>
