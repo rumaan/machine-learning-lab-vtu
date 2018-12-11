@@ -9,6 +9,7 @@ Repo with programs for the Machine Learning Lab (15CSL76). All the programs are 
 - `cd machine-learning-lab-vtu` or move into that directory and run `jupyter notebook` which will open up a Jupyter Notbook instance in your browser.
 - Select the notebook/program and start executing! 👨‍💻👩‍💻
 
+
 ## Dependencies and Modules used
 - [Python](https://www.python.org)
 - [Jupyter](http://jupyter.org)
@@ -25,6 +26,15 @@ You can install these dependencies by doing `pip install dependecy_name` and als
 ---
 
 #### Be Advised, I am not the owner of the code posted here. This repo consists of programs/code combined/modified from various sources like Lab Manuals, Youtube etc. 😇
+
+## Other Info
+- [/py/trimmed/](https://github.com/rumaan/machine-learning-lab-vtu/tree/master/py/trimmed) directory contains all the programs in `.py` format
+- <b>Make sure to change the `datasets` path in those `.py` files as required!</b>
+- Check out the `convert_to_py.sh` script to know more about converting the `.ipnyb` files into `.py`
+```sh
+chmod 755 convert_to_py.sh
+bash convert_to_py.sh
+```
 
 ## Contributing to the Repo (if its your first time)
 You can look [here](https://gitme.js.org) for some inspiration on how to submit a Pull Request (PR)
