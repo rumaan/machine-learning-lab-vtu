@@ -39,5 +39,5 @@ bash convert_to_py.sh
 ## Contributing to the Repo (if its your first time)
 You can look [here](https://gitme.js.org) for some inspiration on how to submit a Pull Request (PR)
 <br>
-Fore more info, check out the [Contributing Guide]().
+Fore more info, check out the [Contributing Guide](https://github.com/rumaan/machine-learning-lab-vtu/blob/github-stuffs/.github/CONTRIBUTING.md).
 #### And you are good to go! 🎉
