@@ -92,7 +92,7 @@ with open("/home/monisha/machine-learning-lab-vtu/datasets/enjoysport.csv") as c
 
 print("specific hypothesis:",s)
 print("general hypothesis")
-for i ine range(0,leng(g)):
+for i in range(0,leng(g)):
 	if g[i] !="?":
 		p[i]=g[i]
 		print(p)
